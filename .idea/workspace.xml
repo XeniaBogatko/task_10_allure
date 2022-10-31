@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd5cc18e-085e-4351-a3e8-c50d317197fd" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SelenideTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bogatkok/SelenideTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/StepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bogatkok/StepsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/WebSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bogatkok/WebSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/bogatkok/StepsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/bogatkok/StepsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +73,7 @@
     "settings.editor.selected.configurable": "build.tools"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.qa_guru_allure [allureServe]">
+  <component name="RunManager" selected="Gradle.StepsTest (1)">
     <configuration name="SelenideTest.testIssueSearch" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -193,8 +189,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.qa_guru_allure [allureServe]" />
         <item itemvalue="Gradle.StepsTest (1)" />
+        <item itemvalue="Gradle.qa_guru_allure [allureServe]" />
         <item itemvalue="Gradle.SelenideTest.testIssueSearch" />
         <item itemvalue="Gradle.StepsTest" />
         <item itemvalue="Gradle.StepsTest.testLambdaStep" />
@@ -217,11 +213,19 @@
       <option name="project" value="LOCAL" />
       <updated>1667177763584</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="package and annotations added">
+      <created>1667180522048</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667180522048</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="SelenideTest, StepsTest, WebSteps added" />
-    <option name="LAST_COMMIT_MESSAGE" value="SelenideTest, StepsTest, WebSteps added" />
+    <MESSAGE value="package and annotations added" />
+    <option name="LAST_COMMIT_MESSAGE" value="package and annotations added" />
   </component>
 </project>

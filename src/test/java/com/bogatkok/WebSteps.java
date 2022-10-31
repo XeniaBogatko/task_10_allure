@@ -1,3 +1,5 @@
+package com.bogatkok;
+
 import com.codeborne.selenide.Condition;
 import com.codeborne.selenide.WebDriverRunner;
 import io.qameta.allure.Attachment;
